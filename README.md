@@ -1,4 +1,4 @@
-### ANALYTICS EXAMPLE
+# ANALYTICS EXAMPLE
 This is an analytics example project that uses a sample dataset of 500 user accounts. It uses the following libraries.
 
 - csvtojson: to convert a csv file to json
